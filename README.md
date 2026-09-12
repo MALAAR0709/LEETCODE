@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MALAAR0709/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/MALAAR0709/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MALAAR0709/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/MALAAR0709/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
