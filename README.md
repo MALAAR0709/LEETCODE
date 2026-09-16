@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/MALAAR0709/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MALAAR0709/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/MALAAR0709/LEETCODE/tree/master/1652-defuse-the-bomb) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MALAAR0709/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MALAAR0709/LEETCODE/tree/master/0053-maximum-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MALAAR0709/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Database
 |  |
 | ------- |
