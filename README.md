@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MALAAR0709/LEETCODE/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/MALAAR0709/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
