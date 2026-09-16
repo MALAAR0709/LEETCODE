@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MALAAR0709/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MALAAR0709/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MALAAR0709/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/MALAAR0709/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
