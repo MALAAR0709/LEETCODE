@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MALAAR0709/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/MALAAR0709/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/MALAAR0709/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MALAAR0709/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/MALAAR0709/LEETCODE/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MALAAR0709/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
