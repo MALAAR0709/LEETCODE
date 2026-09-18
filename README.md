@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MALAAR0709/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/MALAAR0709/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/MALAAR0709/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/MALAAR0709/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1470-shuffle-the-array](https://github.com/MALAAR0709/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MALAAR0709/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/MALAAR0709/LEETCODE/tree/master/1652-defuse-the-bomb) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MALAAR0709/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/MALAAR0709/LEETCODE/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
