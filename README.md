@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MALAAR0709/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MALAAR0709/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MALAAR0709/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/MALAAR0709/LEETCODE/tree/master/1652-defuse-the-bomb) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MALAAR0709/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MALAAR0709/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MALAAR0709/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MALAAR0709/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MALAAR0709/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MALAAR0709/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MALAAR0709/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MALAAR0709/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
