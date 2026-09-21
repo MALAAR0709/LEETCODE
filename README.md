@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/MALAAR0709/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MALAAR0709/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/MALAAR0709/LEETCODE/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MALAAR0709/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MALAAR0709/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bracket Sequences
 |  |
 | ------- |
