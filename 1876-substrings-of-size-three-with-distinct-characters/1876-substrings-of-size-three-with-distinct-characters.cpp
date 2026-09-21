@@ -8,15 +8,15 @@ public:
         for (int i = 0; i + 2 < s.length(); i++) {
 
             // Map = character → frequency
-            unordered_map<char, int> mp;
+            unordered_map<char, int> m;
 
             // Count the 3 characters
-            mp[s[i]]++;
-            mp[s[i + 1]]++;
-            mp[s[i + 2]]++;
+            m[s[i]]++;
+            m[s[i + 1]]++;
+            m[s[i + 2]]++;
 
             // If there are 3 different characters
-            if (mp.size() == 3) {
+            if (m.size() == 3) {
                 count++;
             }
         }
