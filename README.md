@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/MALAAR0709/LEETCODE/tree/master/0175-combine-two-tables) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/MALAAR0709/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Counting
 |  |
