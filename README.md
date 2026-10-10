@@ -86,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MALAAR0709/LEETCODE/tree/master/0043-multiply-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MALAAR0709/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MALAAR0709/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/MALAAR0709/LEETCODE/tree/master/0043-multiply-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MALAAR0709/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MALAAR0709/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/MALAAR0709/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/MALAAR0709/LEETCODE/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
