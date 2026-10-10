@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MALAAR0709/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MALAAR0709/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MALAAR0709/LEETCODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/MALAAR0709/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MALAAR0709/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MALAAR0709/LEETCODE/tree/master/0056-merge-intervals) |
 | [0485-max-consecutive-ones](https://github.com/MALAAR0709/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MALAAR0709/LEETCODE/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/MALAAR0709/LEETCODE/tree/master/0048-rotate-image) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MALAAR0709/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/MALAAR0709/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MALAAR0709/LEETCODE/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MALAAR0709/LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
