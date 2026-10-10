@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MALAAR0709/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/MALAAR0709/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/MALAAR0709/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MALAAR0709/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MALAAR0709/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MALAAR0709/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/MALAAR0709/LEETCODE/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/MALAAR0709/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MALAAR0709/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MALAAR0709/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MALAAR0709/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MALAAR0709/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/MALAAR0709/LEETCODE/tree/master/0053-maximum-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MALAAR0709/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Database
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MALAAR0709/LEETCODE/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/MALAAR0709/LEETCODE/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
